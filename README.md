@@ -1,6 +1,6 @@
 # Gradebook
 
-Can either read in a gradebook from either text or binary files* or create one on runtime
+Can either read in a gradebook from either text or binary files or create one on runtime
 
 Once opened, the user can:
 
@@ -14,5 +14,3 @@ Once opened, the user can:
 The gradebook is stored in a binary tree in alphabetical order based on the names
 
 The gradebook also dynamically allocates/frees memory
-
-    *currently small bug reading from binary
